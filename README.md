@@ -1,4 +1,4 @@
-Week 1（JS基礎＋DOM/イベント/永続化でToDo完成）
+JS基礎＋DOM/イベント/永続化でToDo完成
 
 - [ ]step1
   演習：フォーム・リストのHTML／querySelectorで取得
